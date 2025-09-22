@@ -5,7 +5,7 @@
 
 ## Data Collection
 
-    I scraped real estate listings from an online property website using BeautifulSoup and python. The dataset included property attributes such as the price,address, property ref,date listed , last updated , market status, type, bedrooms, bathrooms, toilets, parking spaces. with some columns  containing missing values.
+I scraped over 6000 real estate listings from an online property website using BeautifulSoup and python. The dataset included property attributes such as the price,address, property ref,date listed , last updated , market status, type, bedrooms, bathrooms, toilets, parking spaces. with some columns  containing missing values.
 
 ## Data Cleaning
     
@@ -36,4 +36,5 @@
 ## Tech Stack
 Python, BeautifulSoup (web scraping),Pandas (data manipulation)
 Matplotlib / Seaborn (visualization),Scikit-learn (regression modeling and evaluation)
+
 
